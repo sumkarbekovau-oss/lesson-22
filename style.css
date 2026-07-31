@@ -1,0 +1,20 @@
+.content{
+    height: 300px;
+    width: 250px;
+    border: 3px solid burlywood;
+    border-radius: 2px;
+
+}
+.computer{
+    height: 300px;
+    width: 250px;
+    border: 3px solid rgb(47, 49, 195);
+    border-radius: 2px;
+}
+.body{
+     display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+
+}
